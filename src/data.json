@@ -1,0 +1,72 @@
+{
+  "deals": [
+    {
+      "_id": "652a9af7cb227bc3cf19763f",
+      "title": "iPhone 14 Pro Max",
+      "price": 170000,
+      "brand": "Apple",
+      "in_top_deals": true,
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg"
+    },
+    {
+      "_id": "652a9af7cb227bc3cf197640",
+      "title": "iPhone 14 Pro",
+      "price": 70000,
+      "brand": "Apple",
+      "in_top_deals": true,
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro.jpg"
+    },
+    {
+      "_id": "652a9af7cb227bc3cf197641",
+      "title": "Galaxy S23 Ultra",
+      "price": 60000,
+      "brand": "Samsung",
+      "in_top_deals": true,
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s23-ultra-5g.jpg"
+    }
+  ],
+  "allProducts": [
+    {
+      "_id": "652a9af7cb227bc3cf197642",
+      "title": "Galaxy Z Flip4",
+      "price": 55000,
+      "brand": "Samsung",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip4-5g.jpg"
+    },
+    {
+      "_id": "652a9efdcb227bc3cf197649",
+      "title": "Watch Series 8",
+      "price": 40999,
+      "brand": "Apple",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-8.jpg"
+    },
+    {
+      "_id": "652a9efdcb227bc3cf197647",
+      "title": "Pixel 7 Pro",
+      "price": 70999,
+      "brand": "Google",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel7-pro-new.jpg"
+    },
+    {
+      "_id": "652a9efdcb227bc3cf197648",
+      "title": "Watch SE",
+      "price": 22999,
+      "brand": "Apple",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-8se-2022.jpg"
+    },
+    {
+      "_id": "652a9efdcb227bc3cf19764a",
+      "title": "Watch Series 8 Aluminum",
+      "price": 39990,
+      "brand": "Apple",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-8-aluminum.jpg"
+    },
+    {
+      "_id": "652a9efdcb227bc3cf19764c",
+      "title": "Pixel Watch",
+      "price": 40000,
+      "brand": "Google",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-watch-.jpg"
+    }
+  ]
+}

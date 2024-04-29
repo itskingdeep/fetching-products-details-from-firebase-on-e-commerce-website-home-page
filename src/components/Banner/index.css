@@ -1,0 +1,51 @@
+.banner {
+  max-width: 80%;
+  margin: 20px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.banner button {
+  margin-top: 50px;
+}
+
+@media only screen and (max-width: 992px) {
+  .banner img {
+    display: none;
+  }
+  .faq {
+    display: none;
+  }
+}
+
+button {
+  padding: 10px 30px;
+  border-radius: 15px;
+  outline: none;
+  background: linear-gradient(to bottom right, orange, rgb(255, 85, 9));
+  color: #fff;
+  cursor: pointer;
+  margin: auto;
+  align-self: center;
+  border: 1px solid rgb(250, 81, 81);
+  transition: 0.2s all ease-in-out;
+}
+
+button:hover {
+  filter: brightness(1.2);
+  box-shadow: 0 0 2px 2px orange;
+}
+
+button:active {
+  box-shadow: 20px 20px 50px 10px brown inset, 0 0 2px 0 orange;
+}
+
+h1 {
+  font-size: 35px;
+  color: rgb(232, 139, 45);
+}
+
+.banner img {
+  width: 250px;
+}
